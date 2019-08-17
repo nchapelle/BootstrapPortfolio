@@ -231,12 +231,13 @@ input[type=submit] {
 }
 
 .work h3{
-  font-size: 16px;
+  font-size: 14px;
   position: relative;
-  background-color: lightgray;
+  background-color: darkturquoise;
   padding: 10px;
   bottom: 70px;
   text-align: center;
+  color: white;
 
 }
 
